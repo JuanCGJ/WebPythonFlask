@@ -1,5 +1,5 @@
 # WebPythonFlask
-Machine Learning Model (Linea regression) Integrated with basic Web server using Flask in Python
+Machine Learning Model (Liner regression) Integrated with basic Web server using Flask in Python
 
 In this folder you will find:
 
@@ -8,5 +8,5 @@ ml-model: machine learning model, dataset
 web_project: templates folder (Index.html), app.py, model.pkl (model compressed)
 
 text files   
-cmd_stepbystep.txt: Step by step for to run project (summary of video tutorial)  
+cmd_stepbystep.txt: Step by step to run project (summary of video tutorial)  
 projecto_deeplearning.txt: Video Tutorial to run project succesfully
