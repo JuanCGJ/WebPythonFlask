@@ -1,5 +1,5 @@
 # WebPythonFlask
-Machine Learning Integrated with Web server using Flask in Python
+Machine Learning Model (Linea regression) Integrated with basic Web server using Flask in Python
 
 In this folder you will find:
 
